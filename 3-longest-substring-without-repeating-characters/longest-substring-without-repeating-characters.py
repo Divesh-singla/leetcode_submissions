@@ -1,5 +1,7 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
+        # sliding window approach
+        
         l = 0
         result = 0
         charSet = set()
