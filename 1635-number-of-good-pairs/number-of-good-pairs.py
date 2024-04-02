@@ -19,5 +19,7 @@ class Solution:
                     result+=(count-y)
         return result
 
+    # approach 3
+
 
         
